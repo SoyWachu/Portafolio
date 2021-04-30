@@ -1,0 +1,23 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@layer components {
+    .button {
+        @apply bg-none border-2 hover:bg-blue-400 hover:text-white border-blue-400 h-11 w-32 mt-4 rounded-md mr-4 transition delay-75 duration-100 ease-in-out focus:outline-none;
+    }
+
+    .logoTec {
+        @apply h-48 w-52;
+    }
+
+    .shadown {
+        @apply shadow-md;
+    }
+
+    .tech {
+        @apply text-center text-xs text-white rounded-xl mr-2 mb-0.5 pl-2 pr-2;
+    }
+}

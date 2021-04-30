@@ -1,0 +1,48 @@
+{
+    "nav": {
+        "t1": "SOBRE MI",
+        "t2": "TECNOLOGIAS",
+        "t3": "PROYECTOS"
+    },
+    "landing": {
+        "t4": "Hola",
+        "t5": "Soy Mauricio Ocando",
+        "t6": "Desarrollador Front-end Jr",
+        "t7": "Descargar CV",
+        "t8": "Contactame"
+    },
+    "about": {
+        "t9": "Sobre mi",
+        "t10": "Soy Mauricio Ocando, tengo 22 años y soy un desarrollador enfocado en el Front-End aunque tambien cuento con conocimientos sobre Back-end, soy una persona con una alta capacidad de adaptabilidad, de rapido aprendizaje y me enfoco en counstruir bellas interfaces e increibles experiencias de usuario que enamoren y atrapen a primera vista, tengo un buen nivel tecnico en las tecnologias que manejo y siempre estoy aprendiendo lo mas nuevo y necesitado en el mercado laboral, en este campo el que deja de aprender se queda atras. Ademas de generar codigo siempre me aseguro que sea lomas limpio, optimizado y legible posible, tambien suelen decir dicen que soy una persona muy alegre y ocurrente asi que las risas nunca faltaran!"
+    },
+    "skills": {
+        "t11": "Comunicacion",
+        "t12": "Automotivacion",
+        "t13": "Responsabilidad",
+        "t14": "Ocurrente",
+        "t15": "Trabajo en equipo",
+        "t16": "Resolucion de problemas",
+        "t17": "Flexibilidad",
+        "t18": "Trabajar bajo presion",
+        "t19": "Empatia",
+        "t20": "Sentido del humor",
+        "t21": "AutoControl",
+        "t22": "Actitud Positiva",
+        "t23": "Asertividad",
+        "t24": "Creatividad",
+        "t25": "Habilidades blandas"
+    },
+    "projects": {
+        "t23": "Proyectos"
+    },
+    "contact": {
+        "t24": "Si tienes un proyecto interesante y desafiante o simplemente te quieres comunicar conmigo no dudes en enviarme un correo!",
+        "t25": "Contactame"
+    },
+    "footer": {
+        "t26": "Desarrollado por Mauricio Ocando con Tailwind CSS"
+    },
+    "tech": {
+        "t27": "Tecnologias"
+    }
+}

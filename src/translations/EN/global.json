@@ -1,0 +1,48 @@
+{
+    "nav": {
+        "t1": "ABOUT ME",
+        "t2": "TECHNOLOGIES",
+        "t3": "PROJECTS"
+    },
+    "landing": {
+        "t4": "Hello",
+        "t5": "I'm Mauricio Ocando",
+        "t6": "Front-end Developer Jr",
+        "t7": "Download CV",
+        "t8": "Contact me"
+    },
+    "about": {
+        "t9": "About me",
+        "t10": "I am Mauricio Ocando, I am 22 years old and I am a developer focused on Front-End although I also have knowledge about Back-end, I am a person with a high capacity for adaptability, fast learning and I focus on building beautiful interfaces and incredible user experiences that make you fall in love and catch you at first sight, I have a good technical level in the technologies that I handle and I am always learning what is new and needed in the IT market, in this field those who stop learning are left behind. in addition to generating code I always make sure it is clean, optimized and legible as possible, people say that I am a very happy and witty person so the laughs will never be lacking!"
+    },
+    "skills": {
+        "t11": "Comunication",
+        "t12": "Self Motivation",
+        "t13": "Responsibility",
+        "t14": "Witty",
+        "t15": "Teamwork",
+        "t16": "Problem Solver",
+        "t17": "Flexibility",
+        "t18": "Work under pressure",
+        "t19": "Empathy",
+        "t20": "Sense of Humor",
+        "t21": "Self Control",
+        "t22": "Possitive attitude",
+        "t23": "Assertiveness",
+        "t24": "Creativity",
+        "t25": "Soft skills"
+    },
+    "projects": {
+        "t23": "Projects"
+    },
+    "contact": {
+        "t24": "If you have an interesting and challenging project or you just want to communicate with me, do not hesitate and send me an email!",
+        "t25": "Contact me"
+    },
+    "footer": {
+        "t26": "Developed by Mauricio Ocando with Tailwind CSS"
+    },
+    "tech": {
+        "t27": "Technologies"
+    }
+}

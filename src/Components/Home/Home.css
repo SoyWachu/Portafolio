@@ -1,0 +1,8 @@
+.hide {
+    display: none;
+    color: black;
+}
+
+.mydiv:hover + .hide {
+    display: block;
+}
