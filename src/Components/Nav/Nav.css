@@ -1,3 +1,7 @@
 html {
     -webkit-animation-fill-mode: backwards;
 }
+
+.nav {
+    z-index: 1000;
+}

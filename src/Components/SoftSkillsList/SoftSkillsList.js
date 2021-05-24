@@ -9,7 +9,7 @@ export default function SoftSkillsList() {
         <div className="flex justify-center ">
             <div>
                 <div>
-                    <h3 className="text-5xl mb-16 text-center ">
+                    <h3 className="text-5xl mb-16 text-center text-blue-500">
                         {t("skills.t25")}
                     </h3>
                 </div>

@@ -3,9 +3,8 @@ import { useTranslation } from "react-i18next";
 
 export default function Footer() {
     const [t] = useTranslation("global");
-
     return (
-        <div className="flex justify-between items-center bg-blue-300 h-16 mt-10">
+        <div className="flex justify-between items-center bg-blue-500 h-16 mt-10 text-white">
             <div></div>
             <p>{t("footer.t26")}</p>
             <div className="flex">

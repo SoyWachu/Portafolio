@@ -1,7 +1,0 @@
-.elsexocaliente:hover + .hide {
-    display: inline;
-    height: 500px;
-}
-.hide {
-    display: none;
-}
